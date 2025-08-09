@@ -1,5 +1,5 @@
 ---
-title: "Actuarial Intern — Direct Assurance"
+title: "Actuaire stagiaire — Direct Assurance"
 collection: experience
 type: "Internship"
 permalink: /experience/direct-assurance
