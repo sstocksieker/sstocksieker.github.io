@@ -7,7 +7,7 @@
 # server process.
 
 # Basic Site Settings
-locale                   : "en-US"
+locale                   : "fr-FR"
 site_theme               : "default"
 title                    : "Samuel Stocksieker"
 title_separator          : "-"
