@@ -1,5 +1,5 @@
 ---
-title: "Research Intern — INRETS"
+title: "Stagiaire recherche — INRETS"
 collection: experience
 type: "Internship"
 permalink: /experience/inrets
