@@ -8,8 +8,8 @@ date: 2013-10-01
 end_date: 2014-06-01
 ---
 
-# Principales missions: 
+**Principales missions:** 
 
-- Revue de méthodes de provisionnement (Excel)
+- Revue de méthodes de provisionnement en prévoyance (Excel)
 - Revue de calculs EV (Image)
--  Modélisation d’une nouvelle stratégie financière dans un modèle ALM (Matlab)
+- Modélisation d’une nouvelle stratégie financière dans un modèle ALM (Matlab)
