@@ -36,7 +36,7 @@
     {% if post.collection == 'experience' %}
       {% assign start = post.date | date: "%B %Y" | replace: "January", "janvier" | replace: "February", "février" | replace: "March", "mars" | replace: "April", "avril" | replace: "May", "mai" | replace: "June", "juin" | replace: "July", "juillet" | replace: "August", "août" | replace: "September", "septembre" | replace: "October", "octobre" | replace: "November", "novembre" | replace: "December", "décembre" %}
       {% if post.end_date %}
-        {% assign end = post.end_date | date: "%B %Y" %}
+        {% assign end = post.end_date | date: "%B %Y" | replace: "January", "janvier" | replace: "February", "février" | replace: "March", "mars" | replace: "April", "avril" | replace: "May", "mai" | replace: "June", "juin" | replace: "July", "juillet" | replace: "August", "août" | replace: "September", "septembre" | replace: "October", "octobre" | replace: "November", "novembre" | replace: "December", "décembre" %}
       {% else %}
         {% assign end = "Aujourd'hui" %}
       {% endif %}
