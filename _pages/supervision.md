@@ -1,11 +1,9 @@
 ---
-title: "Supervision"
+title: "Encadrement, responsabilités et jurys"
 permalink: /supervision/
 layout: single
 author_profile: true
 ---
-
-# Encadrement, responsabilités et jurys
 
 ## Responsabilités académiques et associatives
 
