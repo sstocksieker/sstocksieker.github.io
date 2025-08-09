@@ -13,5 +13,5 @@ end_date: 2013-09-01
   - Etudes de risque et analyse du portefeuille (Prévoyance Office & Cognos)
   - Calcul du SCR & MCR et remplissage des QRT (Excel)
 
-**mémoire d'atuariat**
+**Mémoire d'atuariat**
   - Modélisation du risque de catastrophe industrielle pour nue mutuelle santé
