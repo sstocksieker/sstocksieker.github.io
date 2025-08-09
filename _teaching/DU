@@ -1,0 +1,12 @@
+---
+title: "Lecturer — University of Montpellier"
+collection: teaching
+type: "Graduate Teaching"
+permalink: /teaching/montpellier
+venue: "University of Montpellier, Montpellier, France"
+date: 2019-02-01
+end_date: 
+---
+
+- **Data processing in Python**: data quality, exploratory data analysis, and statistics.  
+- **Econometrics in Python**: multivariate exploratory analysis, data visualization, GLM, time series, Python interfacing.
