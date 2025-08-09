@@ -8,7 +8,8 @@ date: 2011-04-01
 end_date: 2011-08-01
 ---
 
-**Main projects:**
-- Implementation of a claims indicator monitoring report by policy issue year and criterion for portfolio valuation studies.
-- Development of a forecasting tool to assess the impact of pricing measures on contract volumes and portfolio value.
-- Pricing and claims modelling elements.
+# Principales missions: 
+- Définition Indicateurs de suivi du risque et de tableaux de bord (SAS \& Excel)
+- Modélisation de la charge de sinistre à l'ultime par modèle additif généralisé (Emblem)
+- Modélisation et simulations du taux de transformation (scoring)
+
