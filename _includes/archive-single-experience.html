@@ -28,13 +28,6 @@
     {% endif %}
 
     <h2 class="archive__item-title" itemprop="headline">{{ title }}</h2>
-    
-    {% if post.excerpt %}
-      <div class="archive__item-content">
-        {{ post.excerpt }}
-      </div>
-    {% endif %}
-
 
     {% if post.collection == 'experience' %}
       {% assign start = post.date | date: "%B %Y" | replace: "January", "janvier" | replace: "February", "février" | replace: "March", "mars" | replace: "April", "avril" | replace: "May", "mai" | replace: "June", "juin" | replace: "July", "juillet" | replace: "August", "août" | replace: "September", "septembre" | replace: "October", "octobre" | replace: "November", "novembre" | replace: "December", "décembre" %}
@@ -44,19 +37,12 @@
         {% assign end = "Aujourd'hui" %}
       {% endif %}
       <p><i class="fa fa-calendar" aria-hidden="true"></i> {{ start }} → {{ end }}</p>
-    {% elsif post.collection == 'teaching' %}
-      <p>{{ post.type }}, <i>{{ post.venue }}</i>, {{ post.date | date: "%Y" }}</p>
-    {% elsif post.collection == 'publications' %}
-      <p>Published in <i>{{ post.venue }}</i>, {{ post.date | date: "%Y" }}</p>
     {% endif %}
 
-    {% if post.excerpt and site.read_more != 'enabled' %}
-      <p class="archive__item-excerpt" itemprop="description">{{ post.excerpt | markdownify }}</p>
-    {% elsif post.excerpt and site.read_more == 'enabled' %}
-      <p class="archive__item-excerpt" itemprop="description">
-        <p>{{ post.excerpt | markdownify | remove: '<p>' | remove: '</p>' }}
-        <strong><a href="{{ base_path }}{{ post.url }}" rel="permalink">Read more</a></strong></p>
-      </p>
+    {% if post.excerpt %}
+      <div class="archive__item-content">
+        {{ post.excerpt | markdownify }}
+      </div>
     {% endif %}
 
   </article>
