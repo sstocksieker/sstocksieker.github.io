@@ -84,7 +84,6 @@
   display: table-cell;
   vertical-align: top;
   width: 36px;
-  // set width only, for non-square avatars
   height: 36px;
 
   @include breakpoint($large) {
@@ -94,15 +93,44 @@
   }
 
   img {
-    max-width: 175px;
+    width: 150px;       /* largeur fixe */
+    height: 150px;      /* hauteur fixe */
+    object-fit: cover;  /* recadre pour éviter la déformation */
     border-radius: 50%;
 
     @include breakpoint($large) {
+      width: 150px;     /* garder la taille fixe même en grand écran */
+      height: 150px;
       padding: 5px;
       border: 1px solid var(--global-border-color);
     }
   }
 }
+
+
+// .author__avatar {
+//   display: table-cell;
+//   vertical-align: top;
+//   width: 36px;
+//   // set width only, for non-square avatars
+//   height: 36px;
+
+//   @include breakpoint($large) {
+//     display: block;
+//     width: auto;
+//     height: auto;
+//   }
+
+//   img {
+//     max-width: 175px;
+//     border-radius: 50%;
+
+//     @include breakpoint($large) {
+//       padding: 5px;
+//       border: 1px solid var(--global-border-color);
+//     }
+//   }
+// }
 
 .author__content {
   display: table-cell;
