@@ -106,8 +106,3 @@ création des cours, TD/TP, projets et examens.
 - **Bureautique** : Excel, Excel-VBA  
 - **Programmation** : Python, R  
 - **Statistiques & Actuariat** : logiciels internes et outils de calcul spécialisés  
-
----
-
-## Résumé des interventions
-Depuis 2017, j’assure un volume conséquent d’enseignements en mathématiques actuarielles, statistiques, programmation et économie du risque, dans plusieurs universités et écoles d’ingénieurs, avec des responsabilités pédagogiques complètes et un fort lien avec la profession actuarielle.
