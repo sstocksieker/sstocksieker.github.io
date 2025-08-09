@@ -36,12 +36,9 @@ author_profile: true
 
 **Principaux sujets supervisés :** tarification santé, calculs BE/SCR/ORSA, pilotage de portefeuille, IFRS 17, révision de Solvabilité II, provisionnement non-vie, modélisation du risque de longévité, résiliation, ALM, taux de transformation, tarification marché, machine learning en assurance, open data, migration d’outil, impact climatique, tableau de bord, analyse de données DAMIR, modèles stochastiques, deep learning en actuariat.
 
----
-
-### Projets tutorés en Python (Université de Montpellier)
+**Projets tutorés en Python (Université de Montpellier)**
 - Encadrement de plusieurs projets tutorés chaque année (depuis 2018)
 
----
 
 ## Encadrement d'alternants
 - **2024–2025** : 4 M1 IMSA + 8 M2 IMSA  
@@ -49,7 +46,7 @@ author_profile: true
 - **2022–2023** : 8 M2 IMSA  
 - **2021–2022** : 7 M2 IMSA  
 
----
+
 
 ## Encadrement de stages
 - **2023–2024** : 23 M1 IMSA  
@@ -58,7 +55,7 @@ author_profile: true
 - **2020–2021** : 15 M1 IMSA ; 10 M2 ESILV  
 - **2019–2020** : 16 M1 IMSA  
 
----
+
 
 ## Jurys
 - **Mémoires d'actuaire** :  
@@ -68,7 +65,7 @@ author_profile: true
 - **Hackathons de l'IRIAF-ENSAR** : jury (2023-2025)  
 - **Jurys académiques** : Président ou membre de jury (master IMSA, 2022–2023)
 
----
+
 
 ## Organisation d'événements
 
@@ -91,7 +88,6 @@ author_profile: true
 - 2022 : 6 intervenants professionnels  
 - 2021 : 6 intervenants professionnels  
 
----
 
 ## Divers
 - **Membre de groupes de travail** de l’Institut des Actuaires
