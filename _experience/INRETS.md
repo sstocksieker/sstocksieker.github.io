@@ -8,8 +8,6 @@ date: 2010-04-01
 end_date: 2010-08-01
 ---
 
-# Sujet de recherche : Gestion multimodale et globale des déplacements urbains
-
-# Principales missions: 
+**Sujet de recherche: Gestion multimodale et globale des déplacements urbains:**
 - Analyse bibliographique d'algorithmes multi-objectifs de chemin optimal dans un contexte d'incertitude
 - Implémentation de plusieurs algorithmes en C/C++.
