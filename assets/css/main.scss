@@ -40,3 +40,10 @@
     "vendor/font-awesome/solid",
     "vendor/font-awesome/brands"
 ;
+
+.author__avatar img {
+  width: 150px;        /* Largeur fixe */
+  height: 150px;       /* Hauteur fixe */
+  object-fit: cover;   /* Recadrage pour éviter les déformations */
+  border-radius: 50%;  /* Forme circulaire parfaite */
+}
