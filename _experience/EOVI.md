@@ -8,8 +8,10 @@ date: 2012-08-01
 end_date: 2013-09-01
 ---
 
-# Principales missions: 
+**Principales missions:** 
   - Tarification (santé)
-  - Etudes de risque et analyse du portefeuille (Prévoyance Office \& Cognos)
+  - Etudes de risque et analyse du portefeuille (Prévoyance Office & Cognos)
   - Calcul du SCR & MCR et remplissage des QRT (Excel)
-  - Modélisation du risque de catastrophe industrielle (mémoire d’actuariat)
+
+**mémoire d'atuariat**
+  - Modélisation du risque de catastrophe industrielle pour nue mutuelle santé
