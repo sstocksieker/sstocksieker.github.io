@@ -1,5 +1,5 @@
 ---
-title: "Consulting Actuary — Milliman"
+title: "Actuaire consultant — Milliman"
 collection: experience
 type: "Professional"
 permalink: /experience/milliman
@@ -7,19 +7,20 @@ venue: "Milliman"
 date: 2014-07-01
 end_date: 2019-04-01
 ---
-
-Around 30 missions for about 20 clients.
-
-**Main projects:**
-- Inventory work: methodological mapping, calculations and analysis of Boni-Mali (Excel & SAS)
-- Implementation of ORSA technical shocks (Excel & Matlab)
-- Proposal and implementation of a risk monitoring system (Excel & SAS)
-- Development of a Solvency II provisions calculation prototype (Excel)
-- Implementation of BE, RM, and SCR calculations (SAS)
-- Development of a cash flow projection model enabling BE, SCR, and MCEV valuation (Prophet)
-- Production of solvency margin calculations (BE, RM, SCR, MCR) and preparation of QRT reports (Excel & SAS)
-- Solvency II reporting: calculations and narrative reports (Excel)
-- Development of models under Solvency II and IFRS 17 (Prophet)
-- Drafting of functional and technical specifications for product modelling in IFRS 17 (Prophet)
-- Review of functional specifications and drafting of technical specifications for product modelling (SAS)
-- M&A projects, asset allocation strategy, Least Squares Monte Carlo, model review (Moses), pricing, etc.
+ 
+ Environ 30 missions chez environ 20 clients
+ 
+ **Principales missions:**
+ - Travaux d’inventaire : cartographie méthodologique, calculs et analyse de Boni-Mali (Excel \& SAS)
+  - Mise en place de chocs ORSA techniques (Excel \& Matlab)
+  - Proposition et mise en place d’un dispositif de suivi de risque (Excel \& SAS)
+  - Développement d’une maquette de calcul des provisions Solvabilité 2 (Excel)
+  - Mise en place de calcul de BE, RM et SCR (SAS)
+  - Développement d’un modèle de projection de flux permettant le calcul du BE, des SCR et une valorisation MCEV (Prophet)
+  - Production des calculs de marge de solvabilité (BE, RM, SCR, MCR) et alimentation des états QRT (Excel \& SAS)
+  - Production des travaux Solvabilité 2 : calculs et rapports narratifs (Excel)
+  - Développement de modèle sous Solvabilité 2 et IFRS 17 (Prophet)
+  - Rédaction de spécifications fonctionnelles et techniques pour la modélisation de produits dans le cadre d’IFRS 17 (Prophet)
+  - Revue de spécifications fonctionnelles et rédaction de spécifications techniques pour la modélisation de produits (SAS)
+  - Projets de fusion/acquisition, allocation stratégie d’actifs, Least Squares Monte Carlo, revue de modèles (Moses), tarification, etc.
+  
