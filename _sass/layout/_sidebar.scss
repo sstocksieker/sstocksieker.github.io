@@ -92,19 +92,21 @@
     height: auto;
   }
 
-  img {
-    width: 150px;       /* largeur fixe */
-    height: 150px;      /* hauteur fixe */
-    object-fit: cover;  /* recadre pour éviter la déformation */
-    border-radius: 50%;
+img {
+  width: 150px;           /* largeur fixe */
+  height: 150px;          /* hauteur fixe */
+  object-fit: cover;      /* garde le ratio mais recadre */
+  object-position: 60% 40%; /* X% horizontal, Y% vertical */
+  border-radius: 50%;
 
-    @include breakpoint($large) {
-      width: 150px;     /* garder la taille fixe même en grand écran */
-      height: 150px;
-      padding: 5px;
-      border: 1px solid var(--global-border-color);
-    }
+  @include breakpoint($large) {
+    width: 150px;
+    height: 150px;
+    object-position: 60% 40%; /* conserve le décalage en grand écran */
+    padding: 5px;
+    border: 1px solid var(--global-border-color);
   }
+}
 }
 
 
