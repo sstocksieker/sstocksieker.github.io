@@ -5,14 +5,6 @@ permalink: /publications/
 author_profile: true
 ---
 
----
-title: "Publications"
-permalink: /publications/
-layout: single
-author_profile: true
----
-
-
 ## Publications (premier auteur)
 
 - **Data Augmentation for Imbalanced Regression**  
