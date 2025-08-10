@@ -13,8 +13,6 @@ author_profile: true
  -->
 
 
-# Activités d’enseignement
-
 ## Statuts et établissements
 
 - **Professeur des Universités Associé à mi-temps (PAST)** — Aix-Marseille Université  
