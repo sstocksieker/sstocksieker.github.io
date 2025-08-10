@@ -80,17 +80,38 @@
    Author profile and links
    ========================================================================== */
 
-.author__avatar {
-  display: table-cell;
-  vertical-align: top;
-  width: 36px;
-  height: 36px;
+// .author__avatar {
+//   display: table-cell;
+//   vertical-align: top;
+//   width: 36px;
+//   height: 36px;
 
+//   @include breakpoint($large) {
+//     display: block;
+//     width: auto;
+//     height: auto;
+//   }
+
+.author__avatar img {
+  width: 150px;
+  height: 150px;
+  object-fit: cover;
+  object-position: 60% 40%;
+  border-radius: 50%;
+
+  /* Ajout pour zoom */
+  transform: scale(1.2);      /* 1.2 = zoom 20% */
+  transform-origin: center;   /* zoom depuis le centre */
+  
   @include breakpoint($large) {
-    display: block;
-    width: auto;
-    height: auto;
+    width: 150px;
+    height: 150px;
+    object-position: 60% 40%;
+    padding: 5px;
+    border: 1px solid var(--global-border-color);
   }
+}
+
 
 img {
   width: 150px;           /* largeur fixe */
