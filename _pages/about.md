@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-# Bienvenue
+# Bienvenue sur ma page personelle
 Actuaire de formation, je suis actuellement enseignant-chercheur et consultant. 
 
 ## Enseignant
