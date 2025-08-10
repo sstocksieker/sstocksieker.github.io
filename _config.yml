@@ -6,7 +6,8 @@
 # `jekyll serve -l -H localhost`. If you change this file, please restart the 
 # server process.
 
-remote_theme: academicpages/academicpages
+remote_theme: academicpages/academicpages.github.io@v0.8.4
+
 plugins:
   - jekyll-remote-theme
   - jekyll-include-cache
@@ -15,6 +16,7 @@ plugins:
   - jekyll-sitemap
   - jekyll-redirect-from
   - jekyll-feed
+  - jekyll-gist
 
 # Basic Site Settings
 locale                   : "fr-FR"
@@ -315,14 +317,14 @@ permalink: /:categories/:title/
 timezone: Etc/UTC # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
-# Plugins
-plugins:
-  - jekyll-feed
-  - jekyll-gist
-  - jekyll-paginate
-  - jekyll-sitemap
-  - jekyll-redirect-from
-  - jemoji
+# # Plugins
+# plugins:
+#   - jekyll-feed
+#   - jekyll-gist
+#   - jekyll-paginate
+#   - jekyll-sitemap
+#   - jekyll-redirect-from
+#   - jemoji
 
 # Mimic GitHub Pages with --safe
 whitelist:
