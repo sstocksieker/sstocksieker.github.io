@@ -11,16 +11,16 @@ main:
   - title: "Publications"
     url: /publications/
 
-  - title: "Talks"
+  - title: "Présentations"
     url: /talks/    
 
-  - title: "Teaching"
+  - title: "Enseignement"
     url: /teaching/  
 
   - title: "Supervision"
     url: /supervision/  
 
-  - title: "Experience"
+  - title: "Expérience pro."
     url: /experience/  
     
   # - title: "Portfolio"
