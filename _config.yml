@@ -6,6 +6,16 @@
 # `jekyll serve -l -H localhost`. If you change this file, please restart the 
 # server process.
 
+remote_theme: academicpages/academicpages
+plugins:
+  - jekyll-remote-theme
+  - jekyll-include-cache
+  - jekyll-paginate
+  - jemoji
+  - jekyll-sitemap
+  - jekyll-redirect-from
+  - jekyll-feed
+
 # Basic Site Settings
 locale                   : "fr-FR"
 site_theme               : "default"
