@@ -57,14 +57,15 @@ html[data-theme="dark"] {
 
 
 
-/* 1. En-tête + navigation en noir */
+/* Uniformisation de la barre de navigation */
 html[data-theme="dark"] .masthead,
 html[data-theme="dark"] .masthead__inner-wrap,
 html[data-theme="dark"] .masthead__menu,
-html[data-theme="dark"] .masthead__menu-item {
+html[data-theme="dark"] .masthead__menu-item,
+html[data-theme="dark"] .masthead__menu ul {
   background-color: #000000 !important; /* noir profond partout */
-  border: none !important;
 }
+
 
 /* Bordure dorée en bas pour séparer */
 html[data-theme="dark"] .masthead {
@@ -80,14 +81,15 @@ html[data-theme="dark"] .masthead .nav__list a:hover {
   color: #FFD700 !important; /* doré au hover */
 }
 
-/* 2. Titres (bleu pétrole foncé et élégant) */
+/* Titres en bleu océan/canard */
 html[data-theme="dark"] h1,
 html[data-theme="dark"] h2,
 html[data-theme="dark"] h3 {
-  color: #006d77 !important; /* bleu pétrole foncé */
+  color: #003366 !important; /* bleu océan élégant */
 }
 
-/* 3. Séparateurs */
+/* Séparateurs assortis */
 html[data-theme="dark"] hr {
-  border-color: #006d77 !important;
+  border-color: #003366 !important;
 }
+
