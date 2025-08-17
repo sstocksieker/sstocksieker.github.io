@@ -16,22 +16,28 @@ author_profile: true
 ## Statuts et établissements
 
 - **Professeur des Universités Associé à mi-temps (PAST)** — Aix-Marseille Université (AMU)  
-  Équipe Statistiques du groupe ALEA de l'Institut de Mathématiques de Marseille (I2M) — Depuis 2019  
+<p><i class="fa fa-calendar" aria-hidden="true"></i>  2019  →  Aujourd'hui </p>
+  Équipe Statistiques du groupe ALEA de l'Institut de Mathématiques de Marseille (I2M)  
   Master Ingénierie Mathématiques et Statistiques Actuarielles (IMSA)
 
 - **Enseignant Vacataire** — Université de Montpellier (UM)  
-  Diplôme d'Université Big Data, Data Science et Analyse des Risques sous Python (DU Python) — Depuis 2018  
+<p><i class="fa fa-calendar" aria-hidden="true"></i>  2018  →  Aujourd'hui </p>
+  Diplôme d'Université Big Data, Data Science et Analyse des Risques sous Python (DU Python) 
 
 - **Enseignant Vacataire** — Université de Montpellier (UM)  
-  Master Mention Monnaie, Banque, Finance, Assurance - parcours Actuariat (MBFA) — Depuis 2021  
+<p><i class="fa fa-calendar" aria-hidden="true"></i>  2021  →  Aujourd'hui </p>
+  Master Mention Monnaie, Banque, Finance, Assurance - parcours Actuariat (MBFA)   
 
 - **Enseignant Vacataire** — Université de Rouen (UR)  
-  Master Actuariat et Ingénierie Mathématique pour l'Assurance et la Finance (AIMAF) — Depuis 2023  
+<p><i class="fa fa-calendar" aria-hidden="true"></i>  2023  →  Aujourd'hui </p>
+  Master Actuariat et Ingénierie Mathématique pour l'Assurance et la Finance (AIMAF) 
 
 - **Enseignant Vacataire** — École supérieure d'ingénieurs Léonard-de-Vinci (ESILV), Paris  
-  Cursus ingénieur Actuariat (atuariat) — 2018 à 2023  
+<p><i class="fa fa-calendar" aria-hidden="true"></i>  2018  →  2023 </p>
+  Cursus ingénieur Actuariat (atuariat)
 
 - **Enseignant Vacataire** — Université de Nîmes (UN)  
+<p><i class="fa fa-calendar" aria-hidden="true"></i>  2020  →  2025 </p>
   Licence professionnelle Chargé.e de Clientèle en Assurance (LP CCA) — 2020 à 2025  
 
 
