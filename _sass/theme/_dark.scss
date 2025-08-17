@@ -54,31 +54,21 @@ html[data-theme="dark"] {
 }
 
 
-/* Uniformiser le fond de la barre de navigation + en-tête */
+/* Uniformiser masthead + navigation pour le dark theme */
 html[data-theme="dark"] .masthead,
-html[data-theme="dark"] .masthead__inner-wrap,
-html[data-theme="dark"] .page__hero,
-html[data-theme="dark"] .page__header {
+html[data-theme="dark"] .masthead__inner-wrap {
   background-color: #111111 !important; /* noir profond */
-  border: none !important; /* enlève la ligne parasite */
+  border: none !important;
   box-shadow: none !important;
 }
 
-/* Liens dans la navbar */
+/* Liens de navigation */
 html[data-theme="dark"] .masthead .nav__list a {
-  color: #ffffff !important;
-  font-weight: 500;
-}
-html[data-theme="dark"] .masthead .nav__list a:hover {
-  color: #FFD700 !important; /* doré au hover */
+  color: #ffffff !important; /* blanc */
 }
 
-/* Titre du site */
-html[data-theme="dark"] .masthead .site-title {
-  color: #ffffff !important;
-}
-html[data-theme="dark"] .masthead .site-title:hover {
-  color: #FFD700 !important;
+html[data-theme="dark"] .masthead .nav__list a:hover {
+  color: #FFD700 !important; /* doré au hover */
 }
 
 
