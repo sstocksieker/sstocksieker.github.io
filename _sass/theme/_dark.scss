@@ -52,3 +52,11 @@ html[data-theme="dark"] {
     --global-text-color-light           : #{$light-gray};
     --global-thead-color                : #{$background-lighter};
 }
+
+
+/* Contraste masthead (navbar en haut) */
+html[data-theme="dark"] {
+  --global-masthead-bg-color: #1a1a1a; /* gris/noir profond */
+  --global-masthead-link-color: #ffffff; /* texte blanc */
+  --global-masthead-link-color-hover: #FFD700; /* doré au hover */
+}
