@@ -56,6 +56,3 @@ J’ai soutenu ma thèse à l’ISFA en juin 2024 :
 - Vice-président de l’Association des Mathématiques Actuarielles de Marseille  
 - Membre du comité d’organisation du réseau thématique **MATRISK**  
 - Encadrant de mémoires (Université Paris-Dauphine)  
-
-
-![Compteur de visites](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fsstocksieker.github.io&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=visites&edge_flat=false)
