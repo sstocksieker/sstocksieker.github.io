@@ -7,8 +7,6 @@ redirect_from:
   - /about.html
 ---
 
-# Bienvenue sur ma page personnelle
-
 Actuaire de formation, je suis actuellement **enseignant-chercheur** et **consultant indépendant**.  
 Mon parcours se situe à la croisée de l’actuariat, de la data science et de la recherche appliquée.
 
