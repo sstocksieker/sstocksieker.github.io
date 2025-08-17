@@ -53,3 +53,10 @@ html[data-theme="dark"] {
     --global-thead-color                : #{$background-lighter};
 }
 
+/* Test : forcer toute la navbar en rouge */
+html[data-theme="dark"] .masthead,
+html[data-theme="dark"] .masthead__inner-wrap,
+html[data-theme="dark"] .site-nav {
+  background-color: red !important;
+}
+
