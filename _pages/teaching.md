@@ -4,6 +4,8 @@ title: "Enseignement"
 permalink: /teaching/
 author_profile: true
 ---
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
+
 <!-- 
 {% include base_path %}
 
@@ -16,28 +18,28 @@ author_profile: true
 ## Statuts et établissements
 
 - **Professeur des Universités Associé à mi-temps (PAST)** — Aix-Marseille Université (AMU)  
-<p><i class="fa fa-calendar" aria-hidden="true"></i>  2019  →  Aujourd'hui </p>
+<i class="fa-solid fa-calendar-days"></i>  2019  →  Aujourd'hui  
   Équipe Statistiques du groupe ALEA de l'Institut de Mathématiques de Marseille (I2M)  
   Master Ingénierie Mathématiques et Statistiques Actuarielles (IMSA)
 
 - **Enseignant Vacataire** — Université de Montpellier (UM)  
-<p><i class="fa fa-calendar" aria-hidden="true"></i>  2018  →  Aujourd'hui </p>
+<i class="fa-solid fa-calendar-days"></i>  2018  →  Aujourd'hui  
   Diplôme d'Université Big Data, Data Science et Analyse des Risques sous Python (DU Python) 
 
 - **Enseignant Vacataire** — Université de Montpellier (UM)  
-<p><i class="fa fa-calendar" aria-hidden="true"></i>  2021  →  Aujourd'hui </p>
+<i class="fa-solid fa-calendar-days"></i>  2021  →  Aujourd'hui  
   Master Mention Monnaie, Banque, Finance, Assurance - parcours Actuariat (MBFA)   
 
 - **Enseignant Vacataire** — Université de Rouen (UR)  
-<p><i class="fa fa-calendar" aria-hidden="true"></i>  2023  →  Aujourd'hui </p>
+<i class="fa-solid fa-calendar-days"></i>  2023  →  Aujourd'hui  
   Master Actuariat et Ingénierie Mathématique pour l'Assurance et la Finance (AIMAF) 
 
 - **Enseignant Vacataire** — École supérieure d'ingénieurs Léonard-de-Vinci (ESILV), Paris  
-<p><i class="fa fa-calendar" aria-hidden="true"></i>  2018  →  2023 </p>
+<i class="fa-solid fa-calendar-days"></i>  2018  →  2023  
   Cursus ingénieur Actuariat (atuariat)
 
 - **Enseignant Vacataire** — Université de Nîmes (UN)  
-<p><i class="fa fa-calendar" aria-hidden="true"></i>  2020  →  2025 </p>
+<i class="fa-solid fa-calendar-days"></i>  2020  →  2025  
   Licence professionnelle Chargé.e de Clientèle en Assurance (LP CCA) — 2020 à 2025  
 
 
