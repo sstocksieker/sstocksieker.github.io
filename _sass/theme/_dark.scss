@@ -54,6 +54,50 @@ html[data-theme="dark"] {
 }
 
 
+/* 🎨 Thème personnalisé : noir + doré + bleu pétrole */
+
+/* 1. Uniformiser en-tête + navigation */
+html[data-theme="dark"] .masthead,
+html[data-theme="dark"] .masthead__inner-wrap {
+  background-color: #000000 !important; /* fond noir uni */
+  border: none !important;
+  box-shadow: none !important;
+}
+
+/* 2. Liens navigation */
+html[data-theme="dark"] .masthead .nav__list a {
+  color: #ffffff !important; /* texte blanc */
+  font-weight: 500;
+  transition: color 0.2s ease-in-out;
+}
+
+html[data-theme="dark"] .masthead .nav__list a:hover {
+  color: #FFD700 !important; /* doré au hover */
+}
+
+/* 3. Titres et sous-titres */
+html[data-theme="dark"] h1,
+html[data-theme="dark"] h2,
+html[data-theme="dark"] h3,
+html[data-theme="dark"] h4 {
+  color: #2F4F4F !important; /* bleu pétrole foncé */
+}
+
+/* 4. Séparateurs (lignes horizontales) */
+html[data-theme="dark"] hr,
+html[data-theme="dark"] .page__content h2::after {
+  border-color: #2F4F4F !important; /* bleu pétrole */
+}
+
+/* 5. Liens dans le contenu */
+html[data-theme="dark"] a {
+  color: #2F4F4F !important; /* bleu pétrole par défaut */
+  transition: color 0.2s ease-in-out;
+}
+
+html[data-theme="dark"] a:hover {
+  color: #FFD700 !important; /* doré au survol */
+}
 
 
 
