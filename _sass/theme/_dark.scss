@@ -54,9 +54,20 @@ html[data-theme="dark"] {
 }
 
 
-/* Contraste masthead (navbar en haut) */
-html[data-theme="dark"] {
-  --global-masthead-bg-color: #1a1a1a; /* gris/noir profond */
-  --global-masthead-link-color: #ffffff; /* texte blanc */
-  --global-masthead-link-color-hover: #FFD700; /* doré au hover */
+/* Contraste fort sur la barre de navigation */
+html[data-theme="dark"] .masthead {
+  background-color: #1a1a1a !important; /* fond noir/gris foncé */
+  border-bottom: 2px solid #FFD700;     /* fine bordure dorée */
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.4);
 }
+
+/* Liens dans la navbar */
+html[data-theme="dark"] .masthead .nav__list a {
+  color: #ffffff !important; /* texte blanc */
+}
+
+html[data-theme="dark"] .masthead .nav__list a:hover {
+  color: #FFD700 !important; /* hover doré */
+}
+
+
