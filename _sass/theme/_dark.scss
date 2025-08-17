@@ -58,55 +58,34 @@ html[data-theme="dark"] {
 
 
 
-// /* --- NAVBAR CUSTOM STYLING --- */
+/* --- NAVBAR CUSTOM STYLING --- */
 
-// /* Fond de la barre */
-// .masthead {
-//   background-color: #1a1a1a;  /* gris très foncé */
-//   border-bottom: 2px solid #FFD700; /* ligne dorée */
-//   box-shadow: 0 2px 5px rgba(0,0,0,0.4); /* effet relief */
-// }
-
-// /* Liens de navigation */
-// .masthead .nav__list a {
-//   color: #f0f0f0 !important; /* blanc/gris clair */
-//   text-transform: uppercase;
-//   font-weight: 500;
-// }
-
-// /* Au survol */
-// .masthead .nav__list a:hover {
-//   color: #FFD700 !important; /* doré */
-// }
-
-// /* Lien actif (page en cours) */
-// .masthead .nav__list .active a {
-//   color: #FFD700 !important;
-//   border-bottom: 2px solid #FFD700;
-//   font-weight: bold;
-// }
-
-
-
-
-
-/* Forcer un fond noir uniforme sur tout le header */
-html[data-theme="dark"] .masthead,
-html[data-theme="dark"] .masthead__inner-wrap,
-html[data-theme="dark"] .greedy-nav,
-html[data-theme="dark"] #site-nav {
-  background-color: #111111 !important;
-  border: none !important;
-  box-shadow: none !important;
+/* Fond de la barre */
+.masthead {
+  background-color: ##111111;  /* gris très foncé */
+  border-bottom: 2px solid #FFD700; /* ligne dorée */
+  box-shadow: 0 2px 5px rgba(0,0,0,0.4); /* effet relief */
 }
 
-/* Liens */
-html[data-theme="dark"] .masthead a,
-html[data-theme="dark"] .greedy-nav a {
-  color: #ffffff !important;
+/* Liens de navigation */
+.masthead .nav__list a {
+  color: #f0f0f0 !important; /* blanc/gris clair */
+  text-transform: uppercase;
+  font-weight: 500;
 }
 
-html[data-theme="dark"] .masthead a:hover,
-html[data-theme="dark"] .greedy-nav a:hover {
+/* Au survol */
+.masthead .nav__list a:hover {
+  color: #FFD700 !important; /* doré */
+}
+
+/* Lien actif (page en cours) */
+.masthead .nav__list .active a {
   color: #FFD700 !important;
+  border-bottom: 2px solid #FFD700;
+  font-weight: bold;
 }
+
+
+
+
