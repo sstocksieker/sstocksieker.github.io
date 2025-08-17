@@ -60,25 +60,24 @@ author_profile: true
   - 2024 : 22 mémoires (Université de Brest, Strasbourg)  
   - 2023 : 13 mémoires (Université de Brest, Strasbourg, Lyon)  
 
-- **Hackathons de l'IRIAF-ENSAR** : jury (2023-2025)  
-- **Jurys académiques** : Président ou membre de jury (master IMSA, 2022–2023)
+- **Hackathons de l'IRIAF-ENSAR** : jury (2023, 2024, 2025)  
+- **Jurys académiques** : Président ou membre de jury (master IMSA, 2018–2025)
 
 
 
 ## Organisation d'événements
 
 ### Forum école-entreprise (Master IMSA)
-- 2024 : 17 stands  
-- 2023 : 15 stands  
-- 2022 : 13 stands  
-- 2021 : 12 stands  
-- 2020 : 8 stands  
+- 2024: 17 stands  
+- 2023: 15 stands  
+- 2022: 13 stands  
+- 2021: 12 stands  
+- 2020: 8 stands  
 
 ### Journées de professionnalisation et d’intégration (Master IMSA)
-- 2024–2022 : Présentations d’anciens (quinzaine) + chasse au trésor marseillaise  
-- 2021 : Présentations d’anciens  
+- 2021–2025 : Présentations d’anciens (10 - 15) + chasse au trésor marseillaise  
 - 2020 : Séminaire candidature, simulations d’entretien  
-- 2019–2018 : Séminaire métier, séminaire candidature, simulations d’entretien, concours / mini-jeu  
+- 2018–2019 : Séminaire métier, séminaire candidature, simulations d’entretien, concours / mini-jeu  
 
 ### Séminaires métiers (Master IMSA)
 - 2024 : 5 intervenants professionnels  
