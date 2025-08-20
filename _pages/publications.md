@@ -14,7 +14,7 @@ author_profile: true
   *Stocksieker, S., Pommeret, D., & Charpentier, A.*  
   In *International Conference on Knowledge-Based and Intelligent Information & Engineering Systems (KES)*, 2025  
 
-- **Disentangled Deep Smoothed Bootstrap for Fair Imbalanced Regression**  <!-- Soumis à Arxiv, en attente du lien -->
+- **[Disentangled Deep Smoothed Bootstrap for Fair Imbalanced Regression](https://arxiv.org/abs/2508.13829)**
   *Stocksieker, S., Pommeret, D., & Charpentier, A.*  
   In *International Conference on Knowledge-Based and Intelligent Information & Engineering Systems (KES)*, 2025  
 
