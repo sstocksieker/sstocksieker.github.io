@@ -48,6 +48,7 @@ J’ai soutenu ma thèse à l’ISFA en juin 2024 :
 *“Contribution de l'apprentissage automatique à la modélisation des valeurs rares et des données déséquilibrées : applications en assurance”*.
 
 ## Engagements et responsabilités
+- Reviewer: TMLR, CIKM, IJCNN 
 - Actuaire certifié  
 - Membre du jury de l’Institut des actuaires  
 - Membre animateur de l’Amicale des Actuaires du Sud  
