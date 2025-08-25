@@ -7,7 +7,7 @@ author_profile: true
 
 ## Publications principales
 
-- **A Comprehensive Survey on Imbalanced Regression: Definitions, Solutions, and Future Directions**  <!-- Soumis à Arxiv, en attente du lien -->
+- **[A Comprehensive Survey on Imbalanced Regression: Definitions, Solutions, and Future Directions](https://hal.science/hal-05213741)**  
   *S. Stocksieker, D. Pommeret*
 
 - **KurtHGR: A Neural Maximal Correlation for Tabular Datasets**  <!-- Non soumis à Arxiv pour resoumettre la version multivariée -->
