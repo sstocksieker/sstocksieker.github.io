@@ -14,6 +14,8 @@ author_profile: true
 *Journées de Statistiques (JDS)* 2025
 - **Imbalanced Regression**  
 *Journée d'Econométrie Michel Terraza*, 2024
+- **Imbalanced Data : Comment le déséquilibre de données peut impacter les performances des modèles ?**  
+*Chaire DIALog*, 2024
 - **Smoothed Bootstrap et génération de données synthétiques pour la modélisation des extrêmes**  
 *Journées de Statistiques (JDS)* 2024  
 *Rencontres des Jeunes Statisticiens (RJS)* 2024
