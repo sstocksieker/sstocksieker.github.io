@@ -9,9 +9,6 @@ redirect_from:
 
 # Samuel Stocksieker
 
-📧 [sam.stocksieker@gmail.com](mailto:stocksieker.sam@gmail.com)  
-🔗 [LinkedIn – sstocksieker](https://www.linkedin.com/in/samuel-stocksieker)   
-
 ---
 
 ## Parcours universitaire
