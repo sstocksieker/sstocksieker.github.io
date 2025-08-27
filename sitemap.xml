@@ -5,20 +5,17 @@ permalink: /sitemap.xml
 
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-{% for page in site.pages %}
-  {% if page.sitemap != false %}
-  <url>
-    <loc>{{ site.url }}{{ page.url | replace: 'index.html','' }}</loc>
-    {% if page.last_modified_at or page.date %}
-    <lastmod>{{ page.last_modified_at | default: page.date | date_to_xmlschema }}</lastmod>
-    {% endif %}
-  </url>
-  {% endif %}
-{% endfor %}
-{% for post in site.posts %}
-  <url>
-    <loc>{{ site.url }}{{ post.url }}</loc>
-    <lastmod>{{ post.last_modified_at | default: post.date | date_to_xmlschema }}</lastmod>
-  </url>
-{% endfor %}
+
+  <!-- Pages principales -->
+  <url><loc>https://sstocksieker.github.io/</loc></url>
+  <url><loc>https://sstocksieker.github.io/cv/</loc></url>
+  <url><loc>https://sstocksieker.github.io/publications/</loc></url>
+  <url><loc>https://sstocksieker.github.io/teaching/</loc></url>
+  <url><loc>https://sstocksieker.github.io/experience/</loc></url>
+  <url><loc>https://sstocksieker.github.io/portfolio/</loc></url>
+  <url><loc>https://sstocksieker.github.io/talks/</loc></url>
+  <url><loc>https://sstocksieker.github.io/supervision/</loc></url>
+
+
 </urlset>
+
