@@ -13,7 +13,7 @@ plugins:
   - jekyll-include-cache
   - jekyll-paginate
   - jemoji
-  # - jekyll-sitemap
+ - jekyll-sitemap
   - jekyll-redirect-from
   - jekyll-feed
   - jekyll-gist
