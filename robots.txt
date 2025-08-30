@@ -1,5 +1,5 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://sstocksieker.github.io/sitemap2.xml
+Sitemap: https://sstocksieker.github.io/sitemap.html
 
