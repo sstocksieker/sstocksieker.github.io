@@ -8,7 +8,7 @@ author_profile: true
 ## Publications principales
 
 - **SHGR: A Generalized Maximal Correlation Coefficient**  
-  *S. Stocksieker, D. Pommeret*
+  *S. Stocksieker, D. Pommeret*  
   In *Conference on Neural Information Processing Systems (Neurips)*, 2025
 
 - **[A Comprehensive Survey on Imbalanced Regression: Definitions, Solutions, and Future Directions](https://hal.science/hal-05213741)**  
