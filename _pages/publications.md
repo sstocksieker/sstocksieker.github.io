@@ -7,7 +7,7 @@ author_profile: true
 
 ## Publications principales
 
-- **SHGR: A Generalized Maximal Correlation Coefficient**  
+- **[SHGR: A Generalized Maximal Correlation Coefficient](https://openreview.net/pdf/58cf19b2b73bcb55d28fed96ccbffc7531445046.pdf)**  
   *S. Stocksieker, D. Pommeret*  
   In *Conference on Neural Information Processing Systems (Neurips)*, 2025
 
