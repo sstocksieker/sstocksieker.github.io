@@ -14,11 +14,11 @@ author_profile: true
 - **[A Comprehensive Survey on Imbalanced Regression: Definitions, Solutions, and Future Directions](https://hal.science/hal-05213741)**  
   *S. Stocksieker, D. Pommeret*
 
-- **KurtHGR: A Neural Maximal Correlation for Tabular Datasets**  <!-- Non soumis à Arxiv pour resoumettre la version multivariée -->  
+- **[KurtHGR: A Neural Maximal Correlation for Tabular Datasets](https://www.sciencedirect.com/science/article/pii/S187705092503011X)**   
   *Stocksieker, S., Pommeret, D., & Charpentier, A.*  
   In *International Conference on Knowledge-Based and Intelligent Information & Engineering Systems (KES)*, 2025  
 
-- **[Disentangled Deep Smoothed Bootstrap for Fair Imbalanced Regression](https://arxiv.org/abs/2508.13829)**  
+- **[Disentangled Deep Smoothed Bootstrap for Fair Imbalanced Regression](https://www.sciencedirect.com/science/article/pii/S1877050925031928)**  
   *Stocksieker, S., Pommeret, D., & Charpentier, A.*  
   In *International Conference on Knowledge-Based and Intelligent Information & Engineering Systems (KES)*, 2025  
 
