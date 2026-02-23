@@ -55,7 +55,7 @@ author_profile: true
    In *International Conference on Machine Learning, Optimization, and Data Science (LOD)*, pp. 211–222, Springer, 2022.
 
 
- ## Reviewer
+## Reviewer
 
  - **TMLR**: 2024, 2025, 2026
  - **IJCNN**: 2025, 2026
