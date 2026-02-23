@@ -52,7 +52,13 @@ author_profile: true
 
 - **MI2AMI : Missing Data Imputation Using Mixed Deep Gaussian Mixture Models**  
    *R. Fuchs, D. Pommeret, S. Stocksieker*  
-   In *International Conference on Machine Learning, Optimization, and Data Science (LOD)*, pp. 211–222, Springer, 2022.  
+   In *International Conference on Machine Learning, Optimization, and Data Science (LOD)*, pp. 211–222, Springer, 2022.
+
+
+ ## Reviewer
+
+ - **TMLR**: 2024, 2025, 2026
+ - **IJCNN**: 2025, 2026
 ---
 
 
